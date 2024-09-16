@@ -72,3 +72,5 @@
 "AS16509: AWS"
 "AS61317: Hivelocity LLC"
 "AS22363: Powerhouse Management, Inc."
+"AS398108: GoDaddy.com, LLC"
+"AS398705: Censys, Inc."
