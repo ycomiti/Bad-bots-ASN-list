@@ -78,3 +78,5 @@
 "AS59729: GREEN FLOID LLC"
 "AS206264: Amarutu Technology Ltd"
 "AS19871: Network Solutions, LLC"
+"AS56694: LLC Smart Ape"
+"AS399486: VIRTUO"
