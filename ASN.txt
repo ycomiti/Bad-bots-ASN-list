@@ -74,3 +74,7 @@
 "AS22363: Powerhouse Management, Inc."
 "AS398108: GoDaddy.com, LLC"
 "AS398705: Censys, Inc."
+"AS49870: Alsycon B.V."
+"AS59729: GREEN FLOID LLC"
+"AS206264: Amarutu Technology Ltd"
+"AS19871: Network Solutions, LLC"
