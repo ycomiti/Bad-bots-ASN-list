@@ -91,3 +91,4 @@
 "AS62904: Eonix Corporation"
 "AS13332: Hype Enterprises"
 "AS55286: B2 Net Solutions Inc."
+"AS34665: Petersburg Internet Network ltd."
