@@ -105,3 +105,5 @@
 "AS134768: CHINANET SHAANXI province Cloud Base network"
 "AS42708: GleSYS AB"
 "AS200373: 3xK Tech GmbH"
+"AS42473: ANEXIA Internetdienstleistungs GmbH"
+"AS197540: netcup GmbH"
