@@ -68,6 +68,7 @@
 "AS8075: Microsoft Corporation"
 "AS136557: Host Universal Pty Ltd"
 "AS212238: Datacamp Limited"
+"AS60068: Datacamp Limited"
 "AS9009: M247"
 "AS16509: AWS"
 "AS61317: Hivelocity LLC"
@@ -103,3 +104,4 @@
 "AS49434: FBW NETWORKS SAS"
 "AS134768: CHINANET SHAANXI province Cloud Base network"
 "AS42708: GleSYS AB"
+"AS200373: 3xK Tech GmbH"
