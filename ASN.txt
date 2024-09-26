@@ -109,3 +109,5 @@
 "AS197540: netcup GmbH"
 "AS12552: GlobalConnect AB"
 "AS139201: Jiangxi Jiujiang IDC"
+"AS29066: velia.net Internetdienste GmbH"
+"AS19994: Rackspace Hosting"
