@@ -111,3 +111,5 @@
 "AS139201: Jiangxi Jiujiang IDC"
 "AS29066: velia.net Internetdienste GmbH"
 "AS19994: Rackspace Hosting"
+"AS61335: PE Denis Podolskii"
+"AS24961: WIIT AG"
