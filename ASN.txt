@@ -114,3 +114,8 @@
 "AS61335: PE Denis Podolskii"
 "AS24961: WIIT AG"
 "AS207566: Chang Way Technologies Co. Limited"
+"AS150436: Byteplus Pte. Ltd."
+"AS60504: Spike Telecom LLC"
+"AS42926: Radore Veri Merkezi Hizmetleri A.S."
+"AS216071: SERVERS TECH FZCO"
+"AS53850: GorillaServers, Inc."
