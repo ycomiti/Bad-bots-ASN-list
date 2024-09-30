@@ -119,3 +119,4 @@
 "AS42926: Radore Veri Merkezi Hizmetleri A.S."
 "AS216071: SERVERS TECH FZCO"
 "AS53850: GorillaServers, Inc."
+"AS8560: IONOS SE"
