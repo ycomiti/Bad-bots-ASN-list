@@ -22,7 +22,7 @@ To block traffic from these ASNs in Cloudflare:
 4. In the **IP Access Rules** section:
     - Select **ASN** from the dropdown menu under "IP, IP range, country name, or ASN".
     - Paste the ASN from the list into the **Value** field.
-    - Under **Action**, select **Block** to prevent traffic from this ASN.
+    - Under **Action**, choose **Block** to stop traffic from this ASN, or select **Managed Challenge** if you'd rather present a Captcha.
     - Under **Zone**, choose either **This website** to apply the block to the current website, or **All websites in account** to apply the block across all domains in your Cloudflare account.
     - (Optional) Add any relevant **Notes** to identify or describe the blocked ASN.
 5. Click **Add** to implement the block.
