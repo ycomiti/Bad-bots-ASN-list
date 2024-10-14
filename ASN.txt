@@ -132,3 +132,5 @@
 "AS9558: PrimeCrown Technologies Private Limited"
 "AS53667: FranTech Solutions"
 "AS401116: Nybula LLC"
+"AS141892: CV Andhika Pratama Sanggoro"
+"AS29522: Cyber_Folks S.A."
