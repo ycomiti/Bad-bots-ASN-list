@@ -134,3 +134,7 @@
 "AS401116: Nybula LLC"
 "AS141892: CV Andhika Pratama Sanggoro"
 "AS29522: Cyber_Folks S.A."
+"AS198605: AVAST Software s.r.o."
+"AS199785: Cloud Hosting Solutions, Limited."
+"AS52485: networksdelmanana.com"
+"AS394625: WhiteLabel IT Solutions Corp"
