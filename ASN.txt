@@ -138,3 +138,5 @@
 "AS199785: Cloud Hosting Solutions, Limited."
 "AS52485: networksdelmanana.com"
 "AS394625: WhiteLabel IT Solutions Corp"
+"AS2639: ZOHO"
+"AS206092: Internet Utilities Europe and Asia Limited"
