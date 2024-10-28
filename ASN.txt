@@ -149,3 +149,5 @@
 "AS202015: HZ Hosting Ltd"
 "AS200000: Hosting Ukraine LTD"
 "AS62005: BlueVPS OU"
+"AS58065: Orion Network Limited"
+"AS136052: PT Cloud Hosting Indonesia"
