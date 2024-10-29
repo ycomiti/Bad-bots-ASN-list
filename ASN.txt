@@ -151,3 +151,5 @@
 "AS62005: BlueVPS OU"
 "AS58065: Orion Network Limited"
 "AS136052: PT Cloud Hosting Indonesia"
+"AS27176: DataWagon LLC"
+"AS215240: Silent Connection Ltd"
