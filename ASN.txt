@@ -154,3 +154,4 @@
 "AS27176: DataWagon LLC"
 "AS215240: Silent Connection Ltd"
 "AS209605: UAB Host Baltic"
+"AS55960: Beijing Guanghuan Xinwang Digital"
