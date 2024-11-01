@@ -155,3 +155,6 @@
 "AS215240: Silent Connection Ltd"
 "AS209605: UAB Host Baltic"
 "AS55960: Beijing Guanghuan Xinwang Digital"
+"AS36352: HostPapa"
+"AS13213: UK-2 Limited"
+"AS58461: CT-HangZhou-IDC"
