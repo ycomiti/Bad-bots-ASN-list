@@ -1,4 +1,5 @@
 ASN,Description
+"AS0","-Reserved AS-"
 "AS12816","Leibniz-Rechenzentrum"
 "AS209828","Genc BT Bilisim Teknolojileri Limited Sirketi"
 "AS51167","Contabo GmbH"
@@ -221,3 +222,4 @@ ASN,Description
 "AS201814","MEVSPACE sp. z o.o."
 "AS206216","Advin Services LLC"
 "AS214943","Railnet LLC"
+"AS6364","Atlantic.net, Inc."
